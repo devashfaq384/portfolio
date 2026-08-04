@@ -17,5 +17,8 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4"
+  },
+  "overrides": {
+    "jiti": "2.6.1"
   }
 }
